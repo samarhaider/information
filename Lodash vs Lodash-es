@@ -1,0 +1,22 @@
+💡 Lodash vs Lodash-es — Which One Should You Use?
+As I continue to optimize my front-end tooling with Vite + React + TypeScript, I revisited a subtle but important question:
+
+👉 Should I use lodash or lodash-es?
+
+🔹 lodash is CommonJS — reliable and battle-tested, but not tree-shakable.
+🔹 lodash-es is the modern ESM build — perfect for reducing bundle size with modern bundlers like Vite and Rollup.
+
+📦 If you’re building modern web apps and care about performance, lodash-es wins:
+
+Enables tree-shaking ⚡
+
+Cleaner imports like import { debounce } from 'lodash-es'
+
+Plays great with TypeScript and ES Modules
+
+💡 Pro tip: Stick to one version across your codebase to avoid bloat and confusion.
+
+Have you switched to lodash-es yet? Would love to hear your experience. 👇
+
+#ReactJS #TypeScript #Lodash #WebPerformance #FrontendEngineering #Vite #JavaScriptTips
+
