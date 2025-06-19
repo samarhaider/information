@@ -3,11 +3,17 @@
 After working with traditional bundlers like Webpack for years, switching to Vite has been a total game-changer for my development workflow. Here's why:
 
 ✅ Instant dev server startup
+
 ✅ Blazing-fast Hot Module Replacement (HMR)
+
 ✅ Built-in support for React + TypeScript
+
 ✅ Zero-config setup that just works
+
 ✅ Lightning-fast builds using esbuild + Rollup
+
 ✅ Seamless integration with ESLint, Prettier, and Tailwind
+
 
 Whether you're building a small prototype or a production-scale app, Vite makes React development feel modern again.
 
